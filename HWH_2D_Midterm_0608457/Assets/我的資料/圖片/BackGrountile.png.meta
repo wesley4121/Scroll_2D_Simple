@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: ae99bb0c59ea8274f9a970df99045b70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8901916111407303312
+    second: BackGrountile_0
+  - first:
+      213: 9004651471731220003
+    second: BackGrountile_1
+  - first:
+      213: 7873606264262107802
+    second: BackGrountile_2
+  - first:
+      213: 3242308439981791600
+    second: BackGrountile_3
+  - first:
+      213: -6367846233914341666
+    second: BackGrountile_4
+  - first:
+      213: 2709596944115791868
+    second: BackGrountile_5
+  - first:
+      213: 6394323510568747388
+    second: BackGrountile_6
+  - first:
+      213: 235197222553603691
+    second: BackGrountile_7
+  - first:
+      213: -2240728182967582874
+    second: BackGrountile_8
+  - first:
+      213: -3946023051910470255
+    second: BackGrountile_9
+  - first:
+      213: 3907086415079543253
+    second: BackGrountile_10
+  - first:
+      213: 6991105296030639892
+    second: BackGrountile_11
+  - first:
+      213: -8858313902002051666
+    second: BackGrountile_12
+  - first:
+      213: 8782893218839098540
+    second: BackGrountile_13
+  - first:
+      213: 2741918695177706956
+    second: BackGrountile_14
+  - first:
+      213: 4920699602706752555
+    second: BackGrountile_15
+  - first:
+      213: -4577611468464219577
+    second: BackGrountile_16
+  - first:
+      213: -1210250567927244718
+    second: BackGrountile_17
+  - first:
+      213: -7568177263269402085
+    second: BackGrountile_18
+  - first:
+      213: 6037400540816575268
+    second: BackGrountile_19
+  - first:
+      213: -1271006649650212284
+    second: BackGrountile_20
+  - first:
+      213: 758387181658984688
+    second: BackGrountile_21
+  - first:
+      213: 6224937868405376985
+    second: BackGrountile_22
+  - first:
+      213: 8931460986314058121
+    second: BackGrountile_23
+  - first:
+      213: 561344117312559287
+    second: BackGrountile_24
+  - first:
+      213: 6152877058279772854
+    second: BackGrountile_25
+  - first:
+      213: -5837240521562890176
+    second: BackGrountile_26
+  - first:
+      213: 6706823740071474289
+    second: BackGrountile_27
+  - first:
+      213: -2573875226118127084
+    second: BackGrountile_28
+  - first:
+      213: 7280171971271194852
+    second: BackGrountile_29
+  - first:
+      213: 6084865673023756520
+    second: BackGrountile_30
+  - first:
+      213: -4624744546628210628
+    second: BackGrountile_31
+  - first:
+      213: 4421460902459718895
+    second: BackGrountile_32
+  - first:
+      213: 5253894107614205754
+    second: BackGrountile_33
+  - first:
+      213: 1852075392981251802
+    second: BackGrountile_34
+  - first:
+      213: -5550796768163313922
+    second: BackGrountile_35
+  - first:
+      213: -5705260101790755524
+    second: BackGrountile_36
+  - first:
+      213: -1424579201942435682
+    second: BackGrountile_37
+  - first:
+      213: 2247677166358322057
+    second: BackGrountile_38
+  - first:
+      213: -6165178308093617868
+    second: BackGrountile_39
+  - first:
+      213: 3577190693834366549
+    second: BackGrountile_40
+  - first:
+      213: -62190665588087468
+    second: BackGrountile_41
+  - first:
+      213: -6377923432415942962
+    second: BackGrountile_42
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackGrountile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7684b3c3ed70a24d8f5e86eaa462451
+      internalID: 8901916111407303312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a2631b1ecab0b489dea4b78628630f
+      internalID: 9004651471731220003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c24b21c88f73459fefacfc47a5d10
+      internalID: 7873606264262107802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1849eba52fd57fa49ab0b23873112cb8
+      internalID: 3242308439981791600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4733cba9c816c3b42854b024ffd95dd2
+      internalID: -6367846233914341666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31aa1868d5ded43b6c0ffedd2addc3
+      internalID: 2709596944115791868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 460
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6779bc13b24d55408ecd77af03d9884
+      internalID: 6394323510568747388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 460
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fe25c11fd89de44af0d0b6ff2fc2d7
+      internalID: 235197222553603691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 460
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7f5e1e7ea04e440ab3236ef163e53d
+      internalID: -2240728182967582874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 460
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377476bcedc67f545bf5a7bfcac7397a
+      internalID: -3946023051910470255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 460
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f457c9a49712498eecdcf33f29908
+      internalID: 3907086415079543253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 434
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef0100ebbf3b54da11abc7ecd335a8
+      internalID: 6991105296030639892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 434
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60440513053ea834491ee376deae3279
+      internalID: -8858313902002051666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 434
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436810f24764cf4597b2062c7a36d6d
+      internalID: 8782893218839098540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 434
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ee3c51fba23e343a2cbef02f4e6bc8
+      internalID: 2741918695177706956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 434
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9805944a428bcf54991f49e13a16e0a7
+      internalID: 4920699602706752555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 434
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517adf934bf90e14187cbd90021598e3
+      internalID: -4577611468464219577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 434
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b3a0726cc618d41942638171084694
+      internalID: -1210250567927244718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 408
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091afe2b7ca4311409fa4ba8c3536ca3
+      internalID: -7568177263269402085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 408
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0517de5016807349be2c6a3e80db255
+      internalID: 6037400540816575268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 408
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d7ab36e3fe5a41b1f0d412788c811
+      internalID: -1271006649650212284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 408
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd2ae18fb7fb4c478533527a80e2ca8
+      internalID: 758387181658984688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 408
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a708db1c8b1049b98ee26508d6986
+      internalID: 6224937868405376985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 408
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc05da55c9d53438a2589801d26484
+      internalID: 8931460986314058121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c92de23a36b84bbe339dd1b1bae75
+      internalID: 561344117312559287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35577ca0e789a448e290fc37a08c5b
+      internalID: 6152877058279772854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab788463d743349892b20fe0724b61
+      internalID: -5837240521562890176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abbdfc51e3af414d9f81700e00b63b7
+      internalID: 6706823740071474289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d0db2dec7ff842bdf2a8cd55d0529
+      internalID: -2573875226118127084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d19d4dcdee21846a166db397d354b0
+      internalID: 7280171971271194852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1578f5b8259f3e7429b05269f256dd80
+      internalID: 6084865673023756520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01bcc23fa69497468c27ee2d6788e6c
+      internalID: -4624744546628210628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc665e934d1ec43b1e98461ddcb734
+      internalID: 4421460902459718895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 356
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe25b1a34dd42d499d10e297a81b221
+      internalID: 5253894107614205754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acbc5db55f56834eaa1fbfff6c8d28f
+      internalID: 1852075392981251802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3755d6789b19c34aaa3d6e2f3edf573
+      internalID: -5550796768163313922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0dc3e3aa6e164597090d21f0a29d2
+      internalID: -5705260101790755524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb855a281ffa124baa6961843a18306
+      internalID: -1424579201942435682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8afe6f1bc4c6204ea52250110786960
+      internalID: 2247677166358322057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a14d2be1372140986ead5f77adb5b
+      internalID: -6165178308093617868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f07921b18cfb4190380838b4c39d1
+      internalID: 3577190693834366549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ce74b0b59fa6e4c8cb0704c9bb1544
+      internalID: -62190665588087468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackGrountile_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 330
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31737f3674e8cca42bd1da295a02c28e
+      internalID: -6377923432415942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
