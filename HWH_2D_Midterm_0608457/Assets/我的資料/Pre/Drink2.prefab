@@ -99,6 +99,11 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.19215685
       objectReference: {fileID: 0}
+    - target: {fileID: 3486457707771629709, guid: 5bc047334f126684383cd5aabe741500,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 3486457708871888420, guid: 5bc047334f126684383cd5aabe741500,
         type: 3}
       propertyPath: m_Color.r
@@ -114,6 +119,11 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.06274508
       objectReference: {fileID: 0}
+    - target: {fileID: 3486457708871888420, guid: 5bc047334f126684383cd5aabe741500,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5bc047334f126684383cd5aabe741500, type: 3}
 --- !u!1 &2793564179932252163 stripped
