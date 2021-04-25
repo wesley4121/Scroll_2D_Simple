@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cips6\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\cips6\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_HWH_2D_Midterm_0608457.-2046027197.00" t="ExcludeRecursive" />
+    <e p="C:\Users\cips6\Documents\GitHub\HWH_2D_Midterm_0608457\HWH_2D_Midterm_0608457\HWH_2D_Midterm_0608457" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Joystick Pack" t="Include">
+          <e p="Examples" t="Include">
+            <e p="JoystickPlayerExample.cs" t="Include" />
+            <e p="JoystickSetterExample.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Base" t="Include">
+              <e p="Joystick.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="DynamicJoystickEditor.cs" t="Include" />
+              <e p="FloatingJoystickEditor.cs" t="Include" />
+              <e p="JoystickEditor.cs" t="Include" />
+              <e p="VariableJoystickEditor.cs" t="Include" />
+            </e>
+            <e p="Joysticks" t="Include">
+              <e p="DynamicJoystick.cs" t="Include" />
+              <e p="FixedJoystick.cs" t="Include" />
+              <e p="FloatingJoystick.cs" t="Include" />
+              <e p="VariableJoystick.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="我的資料" t="Include">
+          <e p="CS" t="Include">
+            <e p="Another" t="Include">
+              <e p="_EnemyAttack.cs" t="Include" />
+              <e p="RotationRandom.cs" t="Include" />
+              <e p="RotationSpawnSYS.cs" t="Include" />
+            </e>
+            <e p="Collision" t="Include">
+              <e p="Player.cs" t="Include" />
+            </e>
+            <e p="DestroyMySelf.cs" t="Include" />
+            <e p="JoyStickMove.cs" t="Include" />
+            <e p="Manages" t="Include">
+              <e p="ButtonManages.cs" t="Include" />
+              <e p="CameraManage.cs" t="Include" />
+              <e p="DontDestyoyOnLoad.cs" t="Include" />
+              <e p="EventManager.cs" t="Include" />
+              <e p="LoadManager.cs" t="Include" />
+              <e p="M_SceneManager.cs" t="Include" />
+              <e p="PlayerPos.cs" t="Include" />
+              <e p="TalkManages.cs" t="Include" />
+            </e>
+            <e p="onClick.cs" t="Include" />
+            <e p="OntriggerKey.cs" t="Include" />
+            <e p="OtherOBJ_Events" t="Include">
+              <e p="BackGroundMove.cs" t="Include" />
+              <e p="BoundTEST.cs" t="Include" />
+              <e p="Bullet.cs" t="Include" />
+              <e p="HpBar.cs" t="Include" />
+              <e p="Parallax.cs" t="Include" />
+              <e p="RepeatBackground.cs" t="Include" />
+            </e>
+            <e p="REstart.cs" t="Include" />
+            <e p="SetIcon.cs" t="Include" />
+            <e p="SpawnDrink.cs" t="Include" />
+            <e p="TalkS" t="Include">
+              <e p="SaySYS" t="Include">
+                <e p="SaySys.cs" t="Include" />
+              </e>
+              <e p="字型" t="Include">
+                <e p="ChineseFont.txt" t="Include" />
+              </e>
+              <e p="文本" t="Include">
+                <e p="01.txt" t="Include" />
+                <e p="02.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Trash" t="Include">
+              <e p="PointOnTriggerDestroy.cs" t="Include" />
+            </e>
+            <e p="Trigger" t="Include">
+              <e p="Enemy1.cs" t="Include" />
+              <e p="Enemy2.cs" t="Include" />
+              <e p="EnemyAttack.cs" t="Include" />
+              <e p="EnemyAttackRange.cs" t="Include" />
+              <e p="EnemySeeRange.cs" t="Include" />
+              <e p="OnGround.cs" t="Include" />
+              <e p="RandomForward.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HWH_2D_Midterm_0608457.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
